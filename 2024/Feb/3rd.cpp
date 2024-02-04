@@ -4,7 +4,7 @@ Date : 03/02/2024
 Problem : Decimal Equivalent of Binary Linked List
 Difficulty : Easy
 Problem Link : https://www.geeksforgeeks.org/problems/decimal-equivalent-of-binary-linked-list/1
-Video Solution : https://youtu.be/ZI7OhV3zuKk
+
 
 */
 
